@@ -1,0 +1,80 @@
+body {
+  background-color: pink;
+  width: 800px;
+  font-family: helvetica;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  border: 2px solid gray;
+}
+
+#Grace {
+  float:right;
+  padding: 10px;
+}
+a {
+  font-size: 20px;
+  color: black;
+}
+a:hover {
+  color: white;
+  font-weight: bold;
+}
+a:active {
+  font-style: italic;
+}
+.bio {
+  margin: auto;
+  padding-bottom: 50px;
+}
+header {
+  text-align: center;
+  padding: 10px;
+  border-top: 3px solid gray;
+}
+h3 {
+  font-size: 15px;
+  font-weight: bold;
+}
+p {
+  font-size: 15px;
+  font-family: serif;
+}
+footer {
+  text-align: center;
+  padding-bottom: 50px;
+  border-bottom: 3px solid gray;
+}
+.title {
+  display:inline;
+  border-right: 1px solid black;
+  padding-right: 10px;
+}
+.title2 {
+  font-size: 15px;
+  font-weight: bold;
+  font-style: italic;
+  display: inline;
+}
+.year {
+  font-size: 10px;
+}
+#porto {
+  border-right: none;
+}
+.social {
+  display: inline;
+  float:left;
+  text-align: center;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-left: 1px solid black;
+}
+#fb {
+  border-left: none;
+  padding-left: 110px;
+}
+#footer {
+  margin-bottom: 50px;
+}

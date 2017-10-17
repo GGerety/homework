@@ -1,0 +1,80 @@
+body {
+  border-top: 5px solid black;
+  border-bottom: 5px solid black;
+  width: 1000px;
+  margin: 10px auto;
+  font-family: arial;
+  background-color: #e5e5e5;
+
+}
+
+#menu, #social {
+  list-style-type: none;
+  text-align: center;
+  padding: 0;
+}
+
+#menu li, #social li {
+  display: inline;
+}
+
+a {
+  color: black;
+  font-weight: bold;
+
+}
+
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+}
+
+h2 {
+  text-transform: uppercase;
+}
+
+main {
+  width: 90%;
+  margin-left: 5%;
+  border-top: 1px solid  black;
+}
+
+main p {
+  font-size: 18px;
+  font-family: serif;
+  text-align: justify;
+  border-bottom: 1px solid black;
+  padding-bottom: 20px;
+}
+
+.bio {
+  width: 70%;
+  float: left;
+  margin-top: 20px;
+}
+
+.picture {
+  width: 30%;
+  float: right;
+
+}
+
+.clear {
+  clear: both;
+}
+
+.pic {
+  border: 1px solid black;
+  padding: 5px;
+  float: right;
+  margin-top: 20px;
+}
+
+.foot {
+  width: 70%;
+}
+
+#social {
+  margin-bottom: 40px;
+  margin-top: 40px;
+}
